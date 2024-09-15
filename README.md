@@ -4,7 +4,10 @@ Here's I'm telling about how to install Fast cli tool in termux without root dev
 ## What is Fast?
 Fast is ⚡ A Smarter and More Efficient Way to Develop MIT App Inventor 2 Extensions. By minimizing boilerplate code, it enhances the developer experience and brings extension development closer to the feel of native Android app creation. [Read More](https://github.com/jewelshkjony/fast-cli).
 
-## Installation
+## Video Tutorial
+https://youtu.be/I7o48XLKGpY
+
+## Commands 
 1st step is we need install ubuntu in termux for it we can use ubuntu-in-termux tool provided by [MFDGaming](https://github.com/MFDGaming/ubuntu-in-termux)
 
 ##### Update and Upgrade Termux

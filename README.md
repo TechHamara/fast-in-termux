@@ -8,7 +8,7 @@ Fast is ⚡ A Smarter and More Efficient Way to Develop MIT App Inventor 2 Exten
 https://youtu.be/I7o48XLKGpY
 
 ## Commands 
-1st step is we need install ubuntu in termux for it we can use ubuntu-in-termux tool provided by [MFDGaming](https://github.com/MFDGaming/ubuntu-in-termux)
+1st step is we need to install ubuntu in termux for it we can use ubuntu-in-termux tool provided by [MFDGaming](https://github.com/MFDGaming/ubuntu-in-termux)
 
 ##### Update and Upgrade Termux
 ```shell

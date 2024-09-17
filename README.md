@@ -15,6 +15,11 @@ https://youtu.be/I7o48XLKGpY
 apt-get update && apt-get upgrade -y
 ```
 
+##### Give Storage Permission to Termux
+```shell
+termux-setup-storage
+```
+
 ##### Install wget
 ```shell
 apt-get install wget -y

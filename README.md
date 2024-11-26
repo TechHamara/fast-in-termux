@@ -137,6 +137,10 @@ sudo apt-get install unzip
 ```shell
 sudo apt-get install openjdk-8-jdk
 ```
+### OR Install Openjdk-11
+```shell
+sudo apt-get install openjdk-11-jdk
+```
 
 ### Install Fast
 ```shell

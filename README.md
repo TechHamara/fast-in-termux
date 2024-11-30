@@ -128,9 +128,19 @@ sudo apt-get upgrade
 sudo apt-get install curl
 ```
 
+##### Install git (Optional - under Ubuntu) if another work of git.
+```shell
+sudo apt-get install git
+```
+
 ##### Install unzip
 ```shell
 sudo apt-get install unzip
+```
+
+##### Update ubuntu using sudo (optional for not error during jdk and fast installation)
+```shell
+sudo apt-get update
 ```
 
 ### Install Openjdk-8
